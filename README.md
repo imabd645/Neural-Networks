@@ -1,4 +1,6 @@
-chine learning frameworks. This repository is designed for learning, experimenting, and understanding how neural networks work — from basic perceptrons to deep learning models.
+Neural Networks with Python
+
+A collection of neural network implementations, experiments, and learning notes using Python, NumPy, and machine learning frameworks. This repository is designed for learning, experimenting, and understanding how neural networks work — from basic perceptrons to deep learning models.
 
 🚀 Features
 
@@ -19,3 +21,5 @@ Step-by-step model building using NumPy, TensorFlow, or PyTorch
 Hands-on experiments with datasets (MNIST, CIFAR-10, custom datasets)
 
 Visualization of training metrics (loss, accuracy, confusion matrix)
+
+Jupyter notebooks for easy exploration
